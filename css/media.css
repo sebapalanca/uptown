@@ -1,0 +1,330 @@
+/* Media Document */
+
+@media screen and (max-width: 1024px) {
+}
+ @media screen and (max-width: 768px) {
+.features .left-features {
+	width: 60%;
+	display: inline-block;
+	float: none;
+	text-align: center;
+}
+.features .left-features .left-sec {
+	margin-bottom: 15%;
+}
+.features .left-features .left-sec span.icon {
+	float: none;
+	display: inline-block;
+	text-align: center;
+	margin-right: 0;
+}
+.features .left-features .left-sec p {
+	padding: 0;
+}
+.features .right-features {
+	width: 60%;
+	display: inline-block;
+	float: none;
+	text-align: center;
+	margin: 7% 0 0 0;
+}
+.features .right-features .right-sec {
+	margin-bottom: 15%;
+}
+.features .right-features .right-sec span.icon {
+	float: none;
+	display: inline-block;
+	text-align: center;
+	margin-right: 0;
+}
+.features .right-features .right-sec p {
+	padding: 0;
+}
+.Subscribe .detail .field input[type="email"] {
+	width: 80%;
+}
+.sub-Subscribe .sub-detail {
+	margin-bottom: 50px;
+	width: 35%;
+	float: none;
+	display: inline-block;
+}
+#section4{ height:100%;}
+.Contact .Contact-deatil .heading p {
+	width: 80%;
+}
+.Contact .Contact-deatil form input[type="text"] {
+	width: 80%;
+}
+.Contact .Contact-deatil form textarea {
+	width: 80%;
+}
+.footer .footer-info {
+	width: 33%;
+	display: inline-block;
+	float: none;
+}
+#section6{ height:100%;}
+#section8{ height:100%;}
+.Subscribe-detail .detail .field input[type="email"] {
+	width: 80%;
+}
+.Contact-hello .Contact-deatil .heading p {
+	width: 80%;
+}
+.Contact-hello .Contact-deatil form input[type="text"] {
+	width: 80%;
+}
+.Contact-hello .Contact-deatil form textarea {
+	width: 80%;
+}
+.footer-bottom .footer-info {
+	width: 33%;
+	display: inline-block;
+	float: none;
+}
+#section9{ height:100%;}
+#slider{    min-height: 650px !important;}
+#section12 {
+	 height:100%;
+}
+}
+ @media screen and (max-width: 640px) {
+.features .sub-features {
+	padding: 30% 0;
+}
+.features .sub-features p {
+	width: 98%;
+}
+.Subscribe .detail {
+	padding: 25% 0;
+}
+.Contact .Contact-deatil {
+	margin: 15% 0 20% 0;
+}
+.footer {
+	padding: 10% 0;
+}
+.footer .footer-info {
+	width: 30%;
+}
+.footer .footer-info h3 {
+	font-size: 12px;
+	margin: 7px 0 7px 0;
+}
+.footer .footer-info p a {
+    font-size: 12px;
+}
+.footer .footer-info p {
+	font-size: 12px;
+	line-height: 14px;
+}
+.features-detail {
+    padding: 10% 0 10% 0;
+}
+
+.Contact-hello .Contact-deatil {
+	margin: 15% 0 20% 0;
+}
+.footer-bottom {
+	padding: 10% 0;
+}
+.footer-bottom  .footer-info {
+	width: 30%;
+}
+.footer-bottom  .footer-info h3 {
+	font-size: 12px;
+	margin: 7px 0 7px 0;
+}
+.footer-bottom  .footer-info p a {
+    font-size: 12px;
+}
+.footer-bottom  .footer-info p {
+	font-size: 12px;
+	line-height: 14px;
+}
+}
+@media only screen and (max-width: 480px) {
+
+.info .logo a img.logo {
+	width: 35%;
+}
+
+.owl-theme .owl-controls .owl-page span {
+	    margin: 28px 3px 120px 0 !important;
+}
+a.doubledown {
+   font-size: 40px;    bottom: 20px;
+}
+.features .sub-features h3 {
+	font-size: 18px;
+	line-height: 35px;
+}
+.features .left-features .left-sec h2 {
+	font-size: 15px;
+}
+.features .left-features .left-sec {
+	 margin-bottom:35%;
+}
+.features .right-features .right-sec h2 {
+	font-size: 15px;
+}
+.features .right-features .right-sec{ 
+	margin-bottom:35%;
+	margin-top: 15%;
+}
+.sub-Subscribe .sub-detail h3.count {
+	font-size: 35px;
+}
+.sub-Subscribe .sub-detail p {
+	font-size: 14px;
+}
+.sub-Subscribe .sub-detail {
+	width: 50%;
+}
+.Subscribe .detail h1{
+	 margin-bottom: 18px;
+}
+.Subscribe .detail p{
+	 margin-bottom: 22px;
+}
+.Subscribe .detail .field {
+    margin-bottom: 22px;
+}
+.Contact .Contact-deatil {
+    margin: 15% 0 40% 0;
+}
+.Contact .Contact-deatil .heading p{
+	 margin-bottom: 40px;
+}
+.footer .footer-info {
+	width: 100%;
+	margin-bottom: 35px;
+}
+#section5 {
+	 height:100%;
+}
+.info-detail .logo a img.logo {
+	width: 35%;
+}
+.info-detail p {
+	 display:none;
+}
+a.downarrow {
+   font-size: 40px;    bottom: 20px;
+}
+.Subscribe-detail .detail h1{
+	 margin-bottom: 18px;
+}
+.Subscribe-detail .detail p{
+	 margin-bottom: 22px;
+}
+.Subscribe-detail .detail .field {
+    margin-bottom: 22px;
+}
+.Contact-hello .Contact-deatil {
+    margin: 15% 0 40% 0;
+}
+.Contact-hello .Contact-deatil .heading p{
+	 margin-bottom: 40px;
+}
+.footer-bottom .footer-info {
+	width: 100%;
+	margin-bottom: 35px;
+}
+#slider{    min-height: 450px !important;}
+img.logo{ width:25%;}
+a.doubledown.slider {
+    font-size: 40px;
+    bottom: -140px;
+}
+img.logo{ width:32% !important;
+height: 32% !important;}
+a.doubledown.video {
+    font-size: 40px !important;
+    bottom: -140px;
+}
+}
+@media only screen 
+and (max-device-width : 767px) 
+and (orientation : landscape) {
+.info .logo a img.logo {
+    width: 18%;
+}
+.info .logo {
+    margin: 2% 0 0 0;
+}
+.cd-section h1 {
+	font-size: 24px;
+}
+.cd-section p {
+	font-size: 12px;
+}
+.info p {
+	 display:none;
+}
+.owl-theme .owl-controls .owl-page span {
+	    margin: 15px 3px 85px 0 !important;
+}
+a.doubledown {
+   font-size: 40px;    bottom: 20px;
+}
+.features .left-features .left-sec {
+	margin-bottom: 15%;
+}
+.features .right-features .right-sec {
+	margin-bottom: 15%;
+}
+.Subscribe .detail p {
+    margin-bottom: 25px;
+}
+.Subscribe .detail .field {
+    margin-bottom: 25px;
+}
+.sub-Subscribe .sub-detail h3.count {
+	font-size: 35px;
+}
+.sub-Subscribe .sub-detail p {
+	font-size: 14px;
+}
+.Contact .Contact-deatil .heading p{ 
+   margin-bottom: 40px;
+}
+.info-detail .logo a img.logo {
+    width: 18%;
+}
+.info-detail .logo {
+    margin: 2% 0 0 0;
+}
+.info-detail p {
+	 display:none;
+}
+a.downarrow {
+   font-size: 40px;   
+   bottom: 20px;
+}
+.Subscribe-detail .detail p {
+    margin-bottom: 25px;
+}
+.Subscribe-detail .detail .field {
+    margin-bottom: 25px;
+}
+.Contact-hello .Contact-deatil .heading p{ 
+   margin-bottom: 40px;
+}
+#slider{ min-height: 450px !important;}
+.slider-inner-content{ padding: 6% 0 0 0 !important;}
+img.logo{ width:18%;}
+a.doubledown.slider {
+    font-size: 40px;
+    bottom: -80px;
+}
+img.logo{ width:28% !important;
+height:28% !important;}
+a.doubledown.video {
+    font-size: 40px !important;
+    bottom: -60px;
+}
+}
+@media only screen and (max-width: 320px) {
+}
